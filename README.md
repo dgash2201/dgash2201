@@ -1,13 +1,13 @@
-- 👋 Привет! Меня зовут Данил
-* Интересуюсь веб-разработкой
-* Стараюсь писать чистый и понятный код
-* :rocket: Хочу работать с интересными проектами
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Привет! Меня зовут Данил
+* 💜 Интересуюсь веб-разработкой
+* 🖊️ Стараюсь писать чистый и понятный код
+* 🚀 Хочу работать с интересными проектами
 
-<!---
-dgash2201/dgash2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Мой стек: `HTML` `CSS` `Javascript` `React` `Git` `Webpack`
+
+Немного обо мне:
+* Увлекаюсь зимними видами спорта ⛷️
+* Люблю решать задачки на codewars 💙 - [мой профиль](https://codewars.com/__dgash)
+* [Мой телеграм](https://t.me/KZN_Danil_Gashigullin)
+
+<img src="https://github-readme-stats.vercel.app/api?username=dgash2201&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
